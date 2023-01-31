@@ -44,7 +44,3 @@ Customer {
 - Use database of choise to store data.
 
 - Store the phone number in a database with minimized space storage (choose `varchar`/`string`, or `Uint64` whichever store less space).
-
-### Submit your result
-
-Please clone this repository in a new github repository in private mode and share with ID: `mason-chase` in private mode on github.com and then create a PR that only shows what you have changed in the project, it means you must make sure that my commits are not erased from the history.
